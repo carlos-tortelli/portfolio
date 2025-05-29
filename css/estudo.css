@@ -1,0 +1,32 @@
+body{
+    color: white;
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+footer{
+font-size: small;
+  text-align: right;
+  
+}
+p{
+  text-align: justify;
+  position: static;
+  margin-left: 20px;
+  margin-right: 40px;
+}
+.recuo{
+    text-indent: 40px;
+}
