@@ -50,7 +50,11 @@ h3{
 .recuo{
     text-indent: 40px;
 }
-
+.git{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 footer{
 font-size: small;
   text-align: right;
